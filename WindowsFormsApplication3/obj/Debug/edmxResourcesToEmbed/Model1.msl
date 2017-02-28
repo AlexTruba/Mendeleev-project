@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TableModelStoreContainer" CdmEntityContainer="TableContext">
+    <EntitySetMapping Name="Table">
+      <EntityTypeMapping TypeName="TableModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Configuration" ColumnName="Configuration" />
+          <ScalarProperty Name="Valence" ColumnName="Valence" />
+          <ScalarProperty Name="About" ColumnName="About" />
+          <ScalarProperty Name="AtomicMass" ColumnName="AtomicMass" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

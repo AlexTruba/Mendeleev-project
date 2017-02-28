@@ -1,0 +1,56 @@
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\pavlo\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\strab\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.dll
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.xml
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Table_log.ldf
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Table.mdf
+C:\Users\strab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\Table_log.ldf
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\Table.mdf
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.dll
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.pdb
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\bin\Debug\HtmlAgilityPack.xml
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Какой-то код\Mendellev project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
